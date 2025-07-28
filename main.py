@@ -1,12 +1,3 @@
-def addition():
-    pass
-def subtraction():
-    pass
-def multiplication():
-    pass
-def division():
-    pass
-
 
 def user_input():
     """Function to get user input."""
